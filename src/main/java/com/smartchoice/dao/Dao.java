@@ -12,7 +12,7 @@ import com.smartchoice.model.UploadFile;
 public interface Dao {
 
 	
-	/******Admin Model Methods******/
+	/******Admin Model Methods********/
 	public void createAdmin(Admin ad);
 	
 	public List<Admin> selectAll();

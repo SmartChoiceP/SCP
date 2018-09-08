@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: Smart_Choice_Application
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: dell
+Built-By: SAGAR
 Implementation-Vendor-Id: org.springframework.samples.service.service
-Build-Jdk: 1.8.0_131
+Build-Jdk: 1.8.0_121
 Implementation-URL: http://projects.spring.io/spring-boot/Smart_Choice
  _Application/
 Created-By: Maven Integration for Eclipse

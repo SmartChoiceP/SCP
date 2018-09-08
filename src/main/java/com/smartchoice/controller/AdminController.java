@@ -29,7 +29,7 @@ public class AdminController {
 	@PostMapping(value="/create",headers="Accept=application/json")
 	public ResponseEntity<Void> create(@RequestBody Admin a)
 	{
-		System.out.println("in admin create method");
+		System.out.println("in admin create method By SAGAR");
 		
 		ser.createAdmin(a);
 		
